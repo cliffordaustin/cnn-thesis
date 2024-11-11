@@ -15,7 +15,7 @@ This project develops an automated system for detecting Invasive Ductal Carcinom
 This project was developed and tested using Google Colab. It’s recommended to run the project in Colab for the best experience.
 
 ## Results
-The model achieved an accuracy of 97% after training for 100 epochs.
+The model achieved an accuracy of over 97% after training for 100 epochs.
 
 ## References
 All references related to this project are included in the `thesis.pdf` document.
